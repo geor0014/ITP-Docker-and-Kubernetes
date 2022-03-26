@@ -1,10 +1,6 @@
-# Project Title
+# IT Personality Docker and Kubernetes
 
-Simple overview of use/purpose.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
+This repository will serve as proof for my IT Personality activities. All relevant code will be uploaded here
 
 ## Getting Started
 
